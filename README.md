@@ -10,6 +10,4 @@ Table of content:
 
 Usage: By using AgroAlly , the farmer can easily know the details of the crop prices and the insurance given the government if any natural calamities occur. Farmer is also provided with suggestions for better crop yield.     
 
-//Application source code consist of source code (Android  Application Studio)
-
 
